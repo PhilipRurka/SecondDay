@@ -7,9 +7,8 @@
 	border: 2px solid red;
 }
 
-* {
-margin: 0;
-}
+
+
 
 html, body {
 	height: 100%;
@@ -84,8 +83,7 @@ h2, h4 {
 	margin: 0;
 }
 
-section {
-	background-color: orange;
+ section {
 	margin: 100px 0;
 	font-size: 25px;
 }
@@ -169,12 +167,20 @@ footer p, footer span {
 
 
 
+/***********************************************************
+						Notes
+************************************************************/
+/*   3     #    */
 
+/*
+RGBA (*, *, *, *)
+	The Alpha can be used for hovering links, it fades. Ratio of 1
 
+*/
+/*
+Line-height 1.5;
 
+Font: weight size/height family;
 
-
-
-
-
+*/
 
